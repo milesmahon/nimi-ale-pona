@@ -6,7 +6,7 @@ function Word(props) {
             <li>{props.word}</li>
             <ul>
                 <li>{props.meanings[0][0]}</li>
-                {/* <li>{props.meanings[1]}</li> */}
+                <li>{props.meanings[0][1]}</li>
             </ul>
         </div>
     )

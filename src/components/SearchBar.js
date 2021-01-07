@@ -1,9 +1,11 @@
 import '../styles/App.css';
 
-function SearchBar() {
+function SearchBar(props) {
     return (
         <div className="SearchBar">
-            <input placeholder="ale li toki pona" autofocus="autofocus" onfocus="this.select()"></input>
+            <input id="searchBar" type="text" placeholder="ale li toki pona" autoFocus="autofocus" 
+                    value={props.searchTerm}
+                    onChange={(e) => props.setSearchTerm(e.target.value)}></input>
         </div>
     )
 }
