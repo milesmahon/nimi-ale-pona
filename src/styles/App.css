@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Khula|Open+Sans');
+
+.WordList {
+  text-align: center;
+  list-style-type: none;
+  padding:0;
+  color: #814906;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.Word > ul {
+  list-style-type: none;
+  padding: 0;
+  padding-bottom: 50px;
+}
+
+.Header {
+  text-align: center;
+  padding: 10px;
+  color: #814906;
+  font-family: 'Khula', sans-serif;
+}
+
+.SearchBar {
+  text-align: center;
+  width: 100%;
+  margin: auto;
+  max-width: 200px;
+  border-radius: 2px;
+  /* padding: 1.4rem 2rem; */
+  /* background: #f3d47f; */
+  border-bottom: 1px solid black;
+}
+
+.SearchBar > input {
+  border-style: none; 
+  background: transparent; 
+  outline: none; 
+  text-align:center;
+  width: 100%;
+  color:#814906;
+}
+
+/* TODO get this to work */
+/* 
+@keyframes gradient { 
+  0%{background-position:0 0}
+  100%{background-position:100% 0}
+}
+
+.SearchBar > input:after {
+  content: "";
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 999;
+  height: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  background-position: 0% 0%;
+  background: linear-gradient(to right, #B294FF, #57E6E6, #FEFFB8, #57E6E6, #B294FF, #57E6E6);
+  background-size: 500% auto;
+  animation: gradient 3s linear infinite;
+} */
+
+body {
+  /* color of entire background of page */
+  background: #F7EBC9; 
+}
