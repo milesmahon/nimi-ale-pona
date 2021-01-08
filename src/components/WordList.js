@@ -1,6 +1,6 @@
 import nimi_ale from '../data/nimi_ale';
 import Word from './Word';
-import '../styles/App.css';
+import '../styles/App.scss';
 
 function searchFilter(word, searchTerm) {
     searchTerm = searchTerm.trim();

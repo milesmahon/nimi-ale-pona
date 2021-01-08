@@ -1,4 +1,4 @@
-import './styles/App.css';
+import './styles/App.scss';
 import WordList from './components/WordList';
 import Header from './components/Header';
 import SearchBar from './components/SearchBar';

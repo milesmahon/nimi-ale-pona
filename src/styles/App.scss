@@ -1,11 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Khula|Open+Sans');
 
+$background-color:#F7EBC9;
+$text-color-main: #814906;
+$text-color-second: #ac8454;
+
+$header-font: 'Khula', sans-serif;
+$body-font: 'Open Sans', sans-serif;
+
 .WordList {
   text-align: center;
   list-style: none;
   padding: 0;
-  color: #814906;
-  font-family: 'Open Sans', sans-serif;
+  color: $text-color-main;
+  font-family: $body-font;
 }
 
 .Word > ul {
@@ -25,15 +32,15 @@
   font-style:oblique;
   margin-right: 5px;
   font-size: 90%;
-  color: #ac8454;
+  color: $text-color-second;
 }
 
 .Header {
   margin-top: 10px;
   text-align: center;
   padding: 10px;
-  color: #814906;
-  font-family: 'Khula', sans-serif;
+  color: $text-color-main;
+  font-family: $header-font;
 }
 
 #title {
@@ -53,18 +60,17 @@
   max-width: 200px;
   border-radius: 2px;
   border-bottom: 1px solid black;
-}
-
-.SearchBar > input {
-  border-style: none; 
-  background: transparent; 
-  outline: none; 
-  text-align:center;
-  width: 100%;
-  color:#814906;
-  font-size: 24px;
+  input {
+    border-style: none; 
+    background: transparent; 
+    outline: none; 
+    text-align:center;
+    width: 100%;
+    color: $text-color-main;
+    font-size: 24px;
+  }
 }
 
 body {
-  background: #F7EBC9; 
+  background: $background-color; 
 }
