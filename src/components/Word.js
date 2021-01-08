@@ -1,12 +1,16 @@
 import '../styles/App.css';
+import Definition from './Definition'
 
 function Word(props) {
     return (
         <div className="Word">
-            <li>{props.word}</li>
+            <li className="dictionary-word">{props.word}</li>
             <ul>
-                <li>{props.meanings[0][0]}</li>
-                <li>{props.meanings[0][1]}</li>
+                {props.meanings.map(meaning => (
+                    <Definition meaning={meaning}></Definition>
+                ))}
+                {/* <li>{props.meanings[0][0]}</li>
+                <li>{props.meanings[0][1]}</li> */}
             </ul>
         </div>
     )

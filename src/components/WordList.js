@@ -3,12 +3,11 @@ import Word from './Word';
 import '../styles/App.css';
 
 function searchFilter(word, searchTerm) {
+    searchTerm = searchTerm.trim();
     return word.word.includes(searchTerm) || word.meanings.some(meaning => meaning.some(item => item.includes(searchTerm)))
 }
 
 function WordList(props) {
-    // nimi_ale.slice(0,5).forEach(element => element.meanings.forEach(meaning => meaning.forEach(submeaning => console.log(submeaning.includes("a")))));
-    // nimi_ale.slice(0,5).forEach(element => element.meanings.forEach(meaning => console.log(meaning.some(item => item.includes("a")))));
     return (
         <div className="WordListContainer">
             <ul className="WordList">

@@ -3,7 +3,8 @@ import '../styles/App.css';
 function Header() {
     return (
         <div className="Header">
-            <h1>nimi ale pona</h1>
+            <h1 id="title">nimi ale pona</h1>
+            <p id="subtitle">lit. "all the good words"</p>
         </div>
     )
 }
