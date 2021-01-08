@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/nimi-ale-pona/static/css/main.71251d8f.chunk.css",
-    "main.js": "/nimi-ale-pona/static/js/main.8de24a5c.chunk.js",
-    "main.js.map": "/nimi-ale-pona/static/js/main.8de24a5c.chunk.js.map",
+    "main.css": "/nimi-ale-pona/static/css/main.d89dfb59.chunk.css",
+    "main.js": "/nimi-ale-pona/static/js/main.cb0030fd.chunk.js",
+    "main.js.map": "/nimi-ale-pona/static/js/main.cb0030fd.chunk.js.map",
     "runtime-main.js": "/nimi-ale-pona/static/js/runtime-main.dd5aaa1e.js",
     "runtime-main.js.map": "/nimi-ale-pona/static/js/runtime-main.dd5aaa1e.js.map",
-    "static/js/2.c6e49d13.chunk.js": "/nimi-ale-pona/static/js/2.c6e49d13.chunk.js",
-    "static/js/2.c6e49d13.chunk.js.map": "/nimi-ale-pona/static/js/2.c6e49d13.chunk.js.map",
+    "static/js/2.aec4f6f9.chunk.js": "/nimi-ale-pona/static/js/2.aec4f6f9.chunk.js",
+    "static/js/2.aec4f6f9.chunk.js.map": "/nimi-ale-pona/static/js/2.aec4f6f9.chunk.js.map",
     "static/js/3.5ad3a46f.chunk.js": "/nimi-ale-pona/static/js/3.5ad3a46f.chunk.js",
     "static/js/3.5ad3a46f.chunk.js.map": "/nimi-ale-pona/static/js/3.5ad3a46f.chunk.js.map",
     "index.html": "/nimi-ale-pona/index.html",
-    "static/css/main.71251d8f.chunk.css.map": "/nimi-ale-pona/static/css/main.71251d8f.chunk.css.map",
-    "static/js/2.c6e49d13.chunk.js.LICENSE.txt": "/nimi-ale-pona/static/js/2.c6e49d13.chunk.js.LICENSE.txt"
+    "static/css/main.d89dfb59.chunk.css.map": "/nimi-ale-pona/static/css/main.d89dfb59.chunk.css.map",
+    "static/js/2.aec4f6f9.chunk.js.LICENSE.txt": "/nimi-ale-pona/static/js/2.aec4f6f9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dd5aaa1e.js",
-    "static/js/2.c6e49d13.chunk.js",
-    "static/css/main.71251d8f.chunk.css",
-    "static/js/main.8de24a5c.chunk.js"
+    "static/js/2.aec4f6f9.chunk.js",
+    "static/css/main.d89dfb59.chunk.css",
+    "static/js/main.cb0030fd.chunk.js"
   ]
 }
