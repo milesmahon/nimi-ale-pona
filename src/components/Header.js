@@ -3,7 +3,7 @@ import '../styles/App.css';
 function Header() {
     return (
         <div className="Header">
-            <h1> nimi ale li toki pona </h1>
+            <h1>nimi ale pona</h1>
         </div>
     )
 }

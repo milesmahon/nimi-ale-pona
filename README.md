@@ -35,15 +35,18 @@ The full list can be found [here](https://docs.google.com/spreadsheets/d/1t-pjAg
 
 ## More resources
 [Jprogr's dictionary](https://jprogr.github.io/TokiPonaDictionary/) inspired this one.
-[List of toki pona words (pu and non-pu)](https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit#gid=0)
-[A list of toki pona compound words/phrases](https://docs.google.com/spreadsheets/d/12gDr-zsUuwwCWPme9DlAE0JWuFDAFrqh3_IA257ff1U/edit#gid=0)
-[Small survey of the acceptance of various words](https://www.reddit.com/r/tokipona/comments/g9ne0s/survey_results_heres_how_real_these_tp_words_are/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+
+[List of toki pona words](https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit#gid=0) (pu and non-pu).
+
+A list of toki pona [compound words/phrases](https://docs.google.com/spreadsheets/d/12gDr-zsUuwwCWPme9DlAE0JWuFDAFrqh3_IA257ff1U/edit#gid=0).
+
+[Small survey](https://www.reddit.com/r/tokipona/comments/g9ne0s/survey_results_heres_how_real_these_tp_words_are/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) of the acceptance of various words.
 
 ## Development notes
 
 `yarn start`
 
-Runs the app in the development mode.\
+Runs the app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
