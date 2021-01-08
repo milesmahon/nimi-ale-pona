@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# Searchable English-Toki Pona dictionary
+https://milesmahon.github.io/nimi-ale-pona/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+toki pona is a philosophical artistic constructed language created by linguist and translator Sonja Lang. It's original vocabulary is minimal (officially around 120 words), but new words have been been adopted by speakers of the language. These new words are called "non-pu" or "post-pu" words ("pu" meaning approximately: "of or relating to the official toki pona book").
 
-## Available Scripts
+## "Philosophical Language"
+Languages shape how we express ourselves and, in some ways, how we think. Minimalist languages with small vocabularies, like toki pona, force us to break down complex ideas into the basic parts from which they're constructed.
 
-In the project directory, you can run:
+`jan pona (lit. "person good") ->  friend`
 
-### `yarn start`
+`jan meli lawa (lit. "person woman control/rule/guide") -> queen`
+
+This is one of many "restrictions" of the language. Another is that there are very few cardinal numbers:
+
+`wan -> one`
+
+`tu -> two`
+
+`mute -> many, several`
+
+This makes toki pona not well suited for business, which is probably a good thing.
+
+## "Non-pu" words
+Some words were not originally explicitly defined but now are,
+
+`tonsi -> non-binary, gender-nonconforming (from Mandarin 同志)`
+
+some are shorter versions of toki pona phrases,
+
+`kamalawala -> anarchy, uprising (from "kama pi lawa ala", lit. "arrival of no control/rule/guide")`
+
+some are jokes, and some arose out of necessity.
+
+The full list can be found [here](https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit#gid=0). The goal of this project is to present all currently accepted toki pona words in a single, more searchable place.
+
+## More resources
+[Jprogr's dictionary](https://jprogr.github.io/TokiPonaDictionary/) inspired this one.
+[List of toki pona words (pu and non-pu)](https://docs.google.com/spreadsheets/d/1t-pjAgZDyKPXcCRnEdATFQOxGbQFMjZm-8EvXiQd2Po/edit#gid=0)
+[A list of toki pona compound words/phrases](https://docs.google.com/spreadsheets/d/12gDr-zsUuwwCWPme9DlAE0JWuFDAFrqh3_IA257ff1U/edit#gid=0)
+[Small survey of the acceptance of various words](https://www.reddit.com/r/tokipona/comments/g9ne0s/survey_results_heres_how_real_these_tp_words_are/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+
+## Development notes
+
+`yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
