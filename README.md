@@ -1,7 +1,7 @@
 # Searchable English-Toki Pona dictionary
 https://milesmahon.github.io/nimi-ale-pona/
 
-toki pona is a philosophical artistic constructed language created by linguist and translator Sonja Lang. It's original vocabulary is minimal (officially around 120 words), but new words have been been adopted by speakers of the language. These new words are called "non-pu" or "post-pu" words ("pu" meaning approximately: "of or relating to the official toki pona book").
+toki pona is a philosophical artistic constructed language created by linguist and translator Sonja Lang. Its original vocabulary is minimal (officially around 120 words), but new words have been been adopted by speakers of the language. These new words are called "non-pu" or "post-pu" words ("pu" meaning approximately: "of or relating to the official toki pona book").
 
 ## "Philosophical Language"
 Languages shape how we express ourselves and, in some ways, how we think. Minimalist languages with small vocabularies, like toki pona, force us to break down complex ideas into the basic parts from which they're constructed.
