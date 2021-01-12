@@ -1,8 +1,26 @@
 @import url('https://fonts.googleapis.com/css?family=Khula|Open+Sans');
 
-$background-color:#F7EBC9;
-$text-color-main: #814906;
-$text-color-second: #ac8454;
+// TODO color switcher
+
+// original light
+// $background-color:#F7EBC9;
+// $text-color-main: #814906;
+// $text-color-second: #ac8454;
+
+// solar-ish light
+$background-color:#FCFFFD;
+$text-color-main: #5D737E;
+$text-color-second: #64B6AC;
+
+// purple dark
+// $background-color:#6A66A3;
+// $text-color-main: #AAAE7F;
+// $text-color-second: #D0D6B3;
+
+// pink light
+// $background-color:#f48f89;
+// $text-color-main: #F7EDF0;
+// $text-color-second: #F4CBC6;
 
 $header-font: 'Khula', sans-serif;
 $body-font: 'Open Sans', sans-serif;
@@ -29,7 +47,7 @@ $body-font: 'Open Sans', sans-serif;
 }
 
 .dictionary-pos {
-  font-style:oblique;
+  font-style: oblique;
   margin-right: 5px;
   font-size: 90%;
   color: $text-color-second;
@@ -51,6 +69,24 @@ $body-font: 'Open Sans', sans-serif;
 #subtitle {
   margin-top: 0;
   font-size: 14px;
+  color: $text-color-second;
+}
+
+.menu {
+  font-size: 24px;
+  position: fixed;
+  top: 40px;
+  right: 50px;
+  background-color: $background-color;
+}
+
+.navigationMenu {
+  justify-content: right;
+}
+
+.siteLink {
+  text-decoration: none;
+  color: $text-color-second;
 }
 
 .SearchBar {
@@ -59,15 +95,16 @@ $body-font: 'Open Sans', sans-serif;
   margin: auto;
   max-width: 200px;
   border-radius: 2px;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid $text-color-second;
   input {
+    font-family: $body-font;
     border-style: none; 
     background: transparent; 
     outline: none; 
     text-align:center;
     width: 100%;
     color: $text-color-main;
-    font-size: 24px;
+    font-size: 22px;
   }
 }
 
