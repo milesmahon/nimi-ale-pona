@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/nimi-ale-pona/static/css/main.27c21431.chunk.css",
-    "main.js": "/nimi-ale-pona/static/js/main.e49e271f.chunk.js",
-    "main.js.map": "/nimi-ale-pona/static/js/main.e49e271f.chunk.js.map",
+    "main.css": "/nimi-ale-pona/static/css/main.bdac24f3.chunk.css",
+    "main.js": "/nimi-ale-pona/static/js/main.1f897419.chunk.js",
+    "main.js.map": "/nimi-ale-pona/static/js/main.1f897419.chunk.js.map",
     "runtime-main.js": "/nimi-ale-pona/static/js/runtime-main.1a4d2559.js",
     "runtime-main.js.map": "/nimi-ale-pona/static/js/runtime-main.1a4d2559.js.map",
     "static/js/2.2102cbd1.chunk.js": "/nimi-ale-pona/static/js/2.2102cbd1.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.6980a274.chunk.js": "/nimi-ale-pona/static/js/3.6980a274.chunk.js",
     "static/js/3.6980a274.chunk.js.map": "/nimi-ale-pona/static/js/3.6980a274.chunk.js.map",
     "index.html": "/nimi-ale-pona/index.html",
-    "static/css/main.27c21431.chunk.css.map": "/nimi-ale-pona/static/css/main.27c21431.chunk.css.map",
+    "static/css/main.bdac24f3.chunk.css.map": "/nimi-ale-pona/static/css/main.bdac24f3.chunk.css.map",
     "static/js/2.2102cbd1.chunk.js.LICENSE.txt": "/nimi-ale-pona/static/js/2.2102cbd1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1a4d2559.js",
     "static/js/2.2102cbd1.chunk.js",
-    "static/css/main.27c21431.chunk.css",
-    "static/js/main.e49e271f.chunk.js"
+    "static/css/main.bdac24f3.chunk.css",
+    "static/js/main.1f897419.chunk.js"
   ]
 }
