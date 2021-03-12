@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nimi-ale-pona/static/css/main.27c21431.chunk.css",
-    "main.js": "/nimi-ale-pona/static/js/main.ac24bf94.chunk.js",
-    "main.js.map": "/nimi-ale-pona/static/js/main.ac24bf94.chunk.js.map",
+    "main.js": "/nimi-ale-pona/static/js/main.e49e271f.chunk.js",
+    "main.js.map": "/nimi-ale-pona/static/js/main.e49e271f.chunk.js.map",
     "runtime-main.js": "/nimi-ale-pona/static/js/runtime-main.1a4d2559.js",
     "runtime-main.js.map": "/nimi-ale-pona/static/js/runtime-main.1a4d2559.js.map",
     "static/js/2.2102cbd1.chunk.js": "/nimi-ale-pona/static/js/2.2102cbd1.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1a4d2559.js",
     "static/js/2.2102cbd1.chunk.js",
     "static/css/main.27c21431.chunk.css",
-    "static/js/main.ac24bf94.chunk.js"
+    "static/js/main.e49e271f.chunk.js"
   ]
 }
